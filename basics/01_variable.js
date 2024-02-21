@@ -6,7 +6,9 @@ let userState;
 
 // now i will try to change all this variables and constant
 // userId = 2 (Not allowed)
-
+/*
+do not use var because it may create issue in scope 
+*/
 userEmail = "anfnoia@gmail.com"
 userPwd = "3582"
 userCity = "Jaipur"
