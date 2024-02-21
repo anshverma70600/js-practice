@@ -13,5 +13,13 @@ const myobj ={
     age : 1,
 }
 
-console.log(cars);
-console.log(myobj);
+// console.log(cars);
+// console.log(myobj);
+
+//*************************************** Memory ******************************
+// 1--> Stack (primitive) ,       2--> Heap (Reference)
+let prename = "hello world"
+let newname = prename
+newname = "hello ansh"
+console.log(prename);
+console.log(newname);
