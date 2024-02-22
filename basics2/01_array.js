@@ -29,4 +29,4 @@ let arr2 = ["Tata","Tiago"]
 // const arr3 = [...arr1, ...arr2]
 // console.log(arr3);
 
-console.log(arr1.splice(1,2));
+
