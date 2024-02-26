@@ -12,7 +12,7 @@ function one(){
         const website = "linkedIn"
         console.log(name);
     }
-    // console.log(website);
+    console.log(website);
     two()
 }
 one()
